@@ -1,15 +1,42 @@
 # Python
 venv/
 __pycache__/
+*.pyc
 
-# Visual Studio / MFC
+# MFC / Visual Studio
 *.exe
 *.obj
 *.pdb
+*.idb
+*.aps
+*.ilk
+*.log
+*.tlog
+*.lastbuildstate
 Debug/
 Release/
+*.sdf
+*.opensdf
+*.vcxproj.user
+*.user
 
 # Qt
 *.exe
 *.obj
 *.pdb
+*.o
+*.moc
+*.qrc.cpp
+*.rcc
+*.ui.h
+*.user
+*.pro.user
+*.qmake.stash
+*.qmake.cache
+*.qmake.release
+*.qmake.debug
+
+# OS / IDE
+.DS_Store
+Thumbs.db
+.vscode/
