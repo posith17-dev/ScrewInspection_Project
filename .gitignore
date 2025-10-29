@@ -1,0 +1,15 @@
+# Python
+venv/
+__pycache__/
+
+# Visual Studio / MFC
+*.exe
+*.obj
+*.pdb
+Debug/
+Release/
+
+# Qt
+*.exe
+*.obj
+*.pdb
