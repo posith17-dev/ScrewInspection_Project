@@ -1,4 +1,4 @@
-﻿// PylonSampleProgramDlg.cpp : 구현 파일
+﻿// PylonSampleProgramDlg.cpp : 구현 파일 집에서 깃 연습
 // 1. AllocImageBuf에서 CA2W 사용 시 즉시 CString 변환
 // 2. LiveGrabThreadCam0의 메모리 복사 경계 검사 강화
 // 3. Mono12/16 처리 시 reSizeWidth 사용
